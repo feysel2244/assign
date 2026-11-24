@@ -1,0 +1,10 @@
+{
+  "description": "A bilingual marketplace helping Lithuanian parents find, compare, and book child-development and family-support specialists, with trusted resources and transparent pricing.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
